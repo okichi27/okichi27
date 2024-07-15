@@ -15,7 +15,7 @@ I'm interested in life.. 👀
 
 ## Communication
 - 📧 email: [yuliiatryhuk@gmail.com](mailto:yuliiatryhuk@gmail.com)
-- 🌐 instagram: [yuikixi]((https://www.instagram.com/yuikixi?igsh=MXZqdHlidzI2OGZqcQ%3D%3D&utm_source=qr))
+- 🌐 instagram: [yuikixi](https://www.instagram.com/yuikixi?igsh=MXZqdHlidzI2OGZqcQ%3D%3D&utm_source=qr)
 
 Thank you for visiting my profile!
 
