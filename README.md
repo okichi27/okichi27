@@ -6,6 +6,7 @@ I'm interested in life.. 👀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okichi27&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okichi27&langs_count=8)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okichi27)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 - 📚 I study programming and computer science, mathematics.
