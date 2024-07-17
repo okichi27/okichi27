@@ -5,6 +5,7 @@ I'm interested in life.. 👀
 [![GitHub Streak](https://streak-stats.demolab.com?user=okichi27&theme=shadow-blue&hide_border=true&border_radius=4.9&locale=uk&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=200)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okichi27&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okichi27&langs_count=8)
 
 ## About me
 - 📚 I study programming and computer science, mathematics.
