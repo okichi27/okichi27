@@ -17,6 +17,8 @@ I'm interested in life.. 👀
 - 📧 email: [yuliiatryhuk@gmail.com](mailto:yuliiatryhuk@gmail.com)
 - 🌐 instagram: [yuikixi](https://www.instagram.com/yuikixi?igsh=MXZqdHlidzI2OGZqcQ%3D%3D&utm_source=qr)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?okichi27=DenverCoder1)](https://git.io/streak-stats)
+
 Thank you for visiting my profile!
 
 <!---
