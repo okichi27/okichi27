@@ -2,6 +2,8 @@
 
 I'm interested in life.. 👀
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=okichi27&theme=shadow-blue&border_radius=4.7&locale=uk&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
 ## About me
 - 📚 I study programming and computer science, mathematics.
 - 🖥️ I have experience working with various Python image processing libraries.
@@ -16,8 +18,6 @@ I'm interested in life.. 👀
 ## Communication
 - 📧 email: [yuliiatryhuk@gmail.com](mailto:yuliiatryhuk@gmail.com)
 - 🌐 instagram: [yuikixi](https://www.instagram.com/yuikixi?igsh=MXZqdHlidzI2OGZqcQ%3D%3D&utm_source=qr)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/okichi27=DenverCoder1)](https://git.io/streak-stats)
 
 Thank you for visiting my profile!
 
