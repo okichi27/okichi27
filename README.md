@@ -8,12 +8,12 @@ I'm interested in life.. 👀
 - 📚 I study programming and computer science, mathematics.
 - 🖥️ I have experience working with various Python image processing libraries.
 - 🎓 Completed term paper so far, creating a terminal site in Python for tracking a personal budget.
-- 🔧 I am currently working with STM32 microcontrollers.
+- 🔧 I am currently working with 32-bits microcontrollers.
 
 ## My projects
 - Python Projects: Development using various image processing libraries such as OpenCV, MathPlotLib, etc.
 - Course work: Creation of a terminal site in Python, which demonstrates knowledge of the basics of interactive terminal applications and the practicality of the topic!
-- Work with STM32: Projects with microcontrollers, including programming and debugging of STM32-based systems.
+- Work with STM32 and ESP32: Projects with microcontrollers, including programming and debugging of systems.
 
 ## Communication
 - 📧 email: [yuliiatryhuk@gmail.com](mailto:yuliiatryhuk@gmail.com)
